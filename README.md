@@ -1,5 +1,5 @@
 
-# 🧠Java Programming-From Bsics to Advanced
+# 🧠Java Programming-From Basics to Advanced
 
 Welcome to Java Programming repository!This repository is a comprehensive journey through the Java Programming language - carefuuly structured to help both beginners and intermediate developers master Java,from core fundamentals to Advanced concepts.
 
